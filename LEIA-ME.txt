@@ -1,0 +1,11 @@
+PURO BRONZE — CORREÇÃO DO CARD DE COMPARTILHAMENTO
+
+1. Envie TODOS estes arquivos para a raiz do repositório purobronze.
+2. O arquivo principal precisa se chamar index.html.
+3. Confirme que esta URL abre a imagem diretamente no navegador:
+   https://bruunovsanttos.github.io/purobronze/og-puro-bronze-v2.jpg
+4. Aguarde o GitHub Pages concluir o deploy.
+5. Compartilhe o link novamente. O nome v2 ajuda a evitar o cache da imagem antiga.
+
+A imagem deve ficar na MESMA pasta do index.html e manter exatamente este nome:
+og-puro-bronze-v2.jpg
